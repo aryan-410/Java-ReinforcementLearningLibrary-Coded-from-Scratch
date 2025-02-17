@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Reinforcement Learning Library in Java.iml" filepath="$PROJECT_DIR$/.idea/Reinforcement Learning Library in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/policies/policies.iml" filepath="$PROJECT_DIR$/policies/policies.iml" />
+    </modules>
+  </component>
+</project>
